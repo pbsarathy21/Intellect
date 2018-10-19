@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon1"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="one"/>
+
+    <item
+        android:id="@+id/icon2"
+        android:icon="@drawable/ic_explore_black_24dp"
+        android:title="two"/>
+
+    <item
+        android:id="@+id/icon3"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="three"/>
+
+    <item
+        android:id="@+id/icon4"
+        android:icon="@drawable/ic_phonelink_setup_black_24dp"
+        android:title="four"/>
+
+    <item
+        android:id="@+id/icon5"
+        android:icon="@drawable/ic_personal_video_black_24dp"
+        android:title="five"/>
+
+</menu>
